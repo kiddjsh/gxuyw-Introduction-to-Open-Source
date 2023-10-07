@@ -79,4 +79,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 Note: This README template is adapted from [README_TEMPLATES/DAN BADER](https://www.readme-templates.com/)
 
-# coding-project-template
+### coding-project-template
