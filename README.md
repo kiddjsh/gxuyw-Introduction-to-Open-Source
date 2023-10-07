@@ -1,5 +1,3 @@
-# coding-project-template
-
 # Product Name
 > Short blurb about what your product does.
 
@@ -80,3 +78,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 Note: This README template is adapted from [README_TEMPLATES/DAN BADER](https://www.readme-templates.com/)
+
+# coding-project-template
