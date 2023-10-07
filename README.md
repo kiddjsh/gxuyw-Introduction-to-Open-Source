@@ -237,7 +237,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+Note: This README template is adapted from [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -270,5 +270,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-Note: This README template is adapted from [othneildrew](https://github.com/othneildrew/Best-README-Template)
